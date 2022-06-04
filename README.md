@@ -4,9 +4,12 @@
 - 🌱 I’m currently learning at **the Hebrew University Of Jerusalem**
 
 - 📫 Contact me at **barnemesh@gmail.com**
-
-<h2 align="center"><a href="https://GiantSteak.itch.io/"><img src="https://leafo.net/igjc-presentation/itchio-logo.png" width="130" height="35"/></a>
-</h3>
+<h2 align="center">
+  <a href="https://www.linkedin.com/in/bar-nemesh/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="130" height="35"/>
+  <a href="https://GiantSteak.itch.io/">
+    <img src="https://leafo.net/igjc-presentation/itchio-logo.png" width="130" height="35"/></a>
+</h2>
 
 
 <h3 align="left">Languages and Tools:</h3>
