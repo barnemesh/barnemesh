@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Bar Nemesh</h1>
-<h3 align="center">Computer Science and Game Development Student, Programmer</h3>
+<h3 align="center">Algorithm Developer at Mobileye, Computer Science and Game Development Student</h3>
 
 - 🌱 I’m currently learning at **the Hebrew University Of Jerusalem**
 
